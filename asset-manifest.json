@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexLis312/static/css/main.b5320759.css",
+    "main.js": "/AlexLis312/static/js/main.bf4e9c66.js",
+    "index.html": "/AlexLis312/index.html",
+    "main.b5320759.css.map": "/AlexLis312/static/css/main.b5320759.css.map",
+    "main.bf4e9c66.js.map": "/AlexLis312/static/js/main.bf4e9c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.bf4e9c66.js"
+  ]
+}
