@@ -1,0 +1,16 @@
+input[type='text'] {
+  display: block;
+  width: 280px;
+  padding: 8px 10px;
+  margin: 20px auto;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+input[type='text']:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
+}
